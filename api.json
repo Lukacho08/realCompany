@@ -86,5 +86,13 @@
       "targetLat": 41.750323384466185, 
       "targetLon": 44.7807780588972
     }
+  },  
+  {
+    "name": "Billiard Club Rio • ბილიარდის კლუბი რიო",
+    "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-2749-66265e81a0cc8.png",
+    "cordinats": {
+      "targetLat": 41.72595854598432, 
+      "targetLon": 44.74366250154566
+    }
   }
 ]
