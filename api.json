@@ -102,5 +102,13 @@
       "targetLat": 41.7686872221141, 
       "targetLon": 44.7987624190962
     }
+  },  
+  {
+    "name": "Pool Room",
+    "image": "https://nyamie.com/uploads/entity/medium/16_9_entity-1785-65afbbde5e495.png",
+    "cordinats": {
+      "targetLat": 41.79079533210267, 
+      "targetLon": 44.81872574337383
+    }
   }
 ]
